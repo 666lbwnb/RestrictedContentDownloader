@@ -1,5 +1,5 @@
-# RestrictedContentDownloader
-Restricted Content Download Robot
+# TelegramRestrictedContentDownloader
+Telegram Restricted Content Download Robot
 
 这个脚本直接用了[vasusen-code](https://github.com/vasusen-code)这个大佬写的[SaveRestrictedContentBot/main/plugins/progress.py ](https://github.com/vasusen-code/SaveRestrictedContentBot/blob/master/main/plugins/progress.py)文件
 
