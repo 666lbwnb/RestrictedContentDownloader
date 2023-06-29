@@ -2,6 +2,7 @@
 Restricted Content Download Robot
 
 这个脚本直接用了[vasusen-code](https://github.com/vasusen-code)这个大佬写的[SaveRestrictedContentBot/main/plugins/progress.py ](https://github.com/vasusen-code/SaveRestrictedContentBot/blob/master/main/plugins/progress.py)文件
+这是一个自用的脚本,大家可以根据自己的需要进行修改
 
 ### 优点
 
