@@ -21,7 +21,7 @@ Telegram Restricted Content Download Robot
 
 ### 待改进
 
-- 对于下载过的文件,file_id可以存进数据库里,公开的file id可以直接发送,节省VPS流量
+- 对于下载过的文件,file_id可以存进数据库里,公开的file_id可以直接发送,节省VPS流量
 
 ### 使用方法 
 
