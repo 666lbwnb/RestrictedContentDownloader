@@ -1,5 +1,4 @@
 # RestrictedContentDownloader
-Restricted Content Download Robot
 
 这是一个电报受限内容下载器
 
