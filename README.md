@@ -32,9 +32,4 @@ Restricted Content Download Robot
 - 最后 python main.py 就可以在机器人里发指令即可
 - 可以直接在Windows里运行,安卓手机安装一个[Termux](https://www.bilibili.com/read/cv17211082)也可以运行...
 
-### 请我喝奶茶
-
-如果这个脚本帮到了你,可以请我喝杯奶茶~~
-
-<img src="https://s2.loli.net/2023/06/26/KHrT7CZvNdcobmg.jpg" width="400px" alt="">
 
