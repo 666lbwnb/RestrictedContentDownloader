@@ -476,7 +476,7 @@ async def main():
                 if target_message.empty:
                     print(f'跳过空消息 {message_id}')
                     continue
-                is_super_user = target_message.sender_chat or target_message.from_user.id == 123456798
+                is_super_user = target_message.sender_chat or target_message.from_user.id == filter_user_id
                 if not is_super_user:
                     print('跳过非管理员信息')
                     continue
